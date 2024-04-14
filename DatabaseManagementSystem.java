@@ -1,3 +1,7 @@
+import java.lang.reflect.AccessFlag.Location;
+import java.util.HashMap;
+import java.util.List;
+
 public class DatabaseManagementSystem {
 
 	private HashMap<String, User> users;

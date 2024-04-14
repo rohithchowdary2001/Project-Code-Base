@@ -10,5 +10,11 @@ public class SoundModeControlModule {
 		// TODO - implement SoundModeControlModule.changeSoundMode
 		throw new UnsupportedOperationException();
 	}
+	public enum SoundMode {
+	    NORMAL,
+	    SILENT,
+	    VIBRATE
+	}
+
 
 }

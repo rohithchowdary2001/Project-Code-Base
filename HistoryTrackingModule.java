@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class HistoryTrackingModule {
 
 	private List<Activity> activities;

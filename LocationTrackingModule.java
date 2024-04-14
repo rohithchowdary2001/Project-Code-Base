@@ -1,3 +1,5 @@
+import java.lang.reflect.AccessFlag.Location;
+
 public class LocationTrackingModule {
 
 	private Location currentLocation;

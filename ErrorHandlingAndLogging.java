@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class ErrorHandlingAndLogging {
 
 	private List<Error> errors;

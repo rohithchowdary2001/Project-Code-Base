@@ -1,3 +1,5 @@
+import java.util.prefs.Preferences;
+
 public class UserPreferencesModule {
 
 	private Preferences preferences;
